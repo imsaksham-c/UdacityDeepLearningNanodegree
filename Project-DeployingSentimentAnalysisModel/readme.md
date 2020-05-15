@@ -5,7 +5,7 @@ Welcome to the SageMaker deployment project! In this project I have constructed 
 Evertything is done on Amazon Sagemaker, from model training to deployment.
 
 ## Steps-
-1. Clone the repo - git clone 
+1. Clone the repo - git clone https://github.com/imsaksham-c/UdacityDeepLearningNanodegree.git
 2. cd Project-DeployingSentimentAnalysisModel
 3. Open Sagemaker Project.ipynb
 4. Follow the steps mentioned
