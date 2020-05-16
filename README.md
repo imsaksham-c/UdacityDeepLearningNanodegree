@@ -4,6 +4,9 @@ This repo contains my journey taking the [Deep Learning Nanodegree](https://www.
 
 You can get the code used in this nanodegree from the official Udacity repo on Github. You can clone this [link](https://github.com/udacity/deep-learning) and you have all the code !!
 
+## Nanodegree Certificate
+![alt](https://github.com/imsaksham-c/UdacityDeepLearningNanodegree/blob/master/certificate.jpg)
+
 
 ### 1. Introduction 
 
