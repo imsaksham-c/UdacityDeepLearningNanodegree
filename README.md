@@ -51,13 +51,9 @@ In the fourth project, you'll use a deep convolutional GAN to generate completel
 
 
 
-### 6. Deep Reinforcement Learning
+### 6. Deploying A Model
 
-Deep reinforcement learning has been in the center of some of the most recent advances in artificial intelligence. For example, it was widely used in the construction of AlphaGo by DeepMind.
-
-In this section you'll use deep neural networks to design agents that can learn to take actions in a simulated environment. You'll then apply it to complex control tasks like video games and robotics.
-
-In the fifth project, you will design a Deep Reinforcement Learning agent to control several quadcopter flying tasks, including take-off, hover, and landing.
+In this module, I learned how to deploy train & deploy model using Amazon AWS and Sagemaker. Builed a Semtiment Analysis Model on Sagemaker and deployed the same using AWS Sagemaker prebuild functionality.
 
 
 
