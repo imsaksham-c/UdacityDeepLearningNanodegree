@@ -1,4 +1,4 @@
-# Deep-Learning-Nanodegree-Udacity-2019
+# Deep-Learning-Nanodegree-Udacity-20
 
 This repo contains my journey taking the [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) with Udacity!! In the nanodegree, we will become experts in neural networks, and we are going to learn how to implement them using the famous deep learning framework like PyTorch. We will also learn how to build convolutional networks for image recognition, recurrent networks for sequence generation, generative adversarial networks for image generation, and learn how to deploy models accessible from a website.
 
